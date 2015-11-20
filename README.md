@@ -1,6 +1,7 @@
 ## Who is this for?
 Those with coding skills level 999999
-ឬប្រសិនបើ​ អ្នកពាក់[អាវលេខ​​ ២២](https://youtu.be/ydJcCCSLZbo?t=20s)
+
+ឬ ប្រសិនបើ​ អ្នកពាក់ [អាវលេខ​​ ២២](https://youtu.be/ydJcCCSLZbo?t=20s)
 
 ## What's this?
 This repository list some projects that you can complete, so that we can be awed by your coding skills.
@@ -18,7 +19,8 @@ Take a look at the requirements and instructions in each mini-project pages:
   - [Realtime graph](./realtime_graph.md)
   - [iOS Realtime graph](./ios_realtime_graph.md)
   - Email devops@deepo.io to check if you have other ideas
- Include your cv and referrer's name if you have any :smile:
+
+Include your cv and referrer's name if you have any :smile:
 
 ## Need clarifications?
 Feel free to post questions to devops@deepo.io or open an issue :)
