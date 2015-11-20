@@ -1,6 +1,6 @@
 ## Who is this for?
 Those with coding skills level 999999
-or if you [wear No. 22](https://youtu.be/ydJcCCSLZbo?t=20s)
+ឬប្រសិនបើ​ អ្នកពាក់[អាវលេខ​​ ២២](https://youtu.be/ydJcCCSLZbo?t=20s)
 
 ## What's this?
 This repository list some projects that you can complete, so that we can be awed by your coding skills.
