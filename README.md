@@ -7,8 +7,8 @@ Those with coding skills level 999999
 This repository list some projects that you can complete, so that we can be awed by your coding skills.
 If this doesn't sound right, maybe you can participate in the referral program below.
 
-## Deepo Referral Program
-Know someone else who might be interested? Send this page to them, and tell them to include your name in their submission. We'll reward both of you, if he joins us.
+## Deepo Referral Program :two_men_holding_hands:
+Know someone else who might be interested? Send this page to them, and tell them to include your name in their submission. We'll :dollar:reward:dollar: both of you, if he joins us.
 
 ## Why?
 Hopefully we can work together!
