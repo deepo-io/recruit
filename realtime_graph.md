@@ -16,3 +16,6 @@ Set up a webapp that plots a real time graph
 - A live webapp, give us its address. You may host free apps on [Heroku](http://www.heroku.com)
 - Its source code (github or zip)
 
+## Submission
+Drop an email to devops@deepo.io. Also include the name of your referrer if you had one =)
+
