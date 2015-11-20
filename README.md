@@ -16,9 +16,10 @@ Hopefully we can work together!
 Take a look at the requirements and instructions in each mini-project pages:
   - [Line graph plotter](./graph.md)
   - [Realtime graph](./realtime_graph.md)
+  - [iOS Realtime graph](./ios_realtime_graph.md)
   - Email devops@deepo.io to check if you have other ideas
-
  Include your cv and referrer's name if you have any :smile:
+
 ## Need clarifications?
 Feel free to post questions to devops@deepo.io or open an issue :)
 
